@@ -11,9 +11,12 @@ categories: jekyll update
 - **[Xinyi Jiang](https://github.com/xyjiang94)**
 
 # Description
-A baby version of Twitter designed as a platform for experimentation with scaling issues.
+A baby version of Twitter designed as a platform for experimentation with scaling issues.  
+[For more detail](https://frankyan93.github.io/nanotwitter)
 
 # You are welcome to sign up! - [nanoTwitter](https://nano-twitter-dratini.herokuapp.com)
+
+# Screenshots
 
 # Built with
 
