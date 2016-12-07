@@ -7,11 +7,13 @@ categories: jekyll update
 # Authors
 
 - **[Jiadong Yan](https://github.com/FrankYan93)**
-- **Jiaming Xu**
-- **Xinyi Jiang**
+- **[Jiaming Xu](https://github.com/Dragoncell)**
+- **[Xinyi Jiang](https://github.com/xyjiang94)**
 
-# Main Website
-You are welcome to sign up! - [nanoTwitter](https://nano-twitter-dratini.herokuapp.com)
+# Description
+A baby version of Twitter designed as a platform for experimentation with scaling issues.
+
+# You are welcome to sign up! - [nanoTwitter](https://nano-twitter-dratini.herokuapp.com)
 
 # Built with
 
